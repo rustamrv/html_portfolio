@@ -26,7 +26,7 @@ img {
 }
 
 .container {
-  width: min(90%, 1440px);
+  width: min(90%, 970px);
   margin-inline: auto;
 }
 
